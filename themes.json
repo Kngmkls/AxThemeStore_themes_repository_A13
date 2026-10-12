@@ -2239,6 +2239,62 @@
           "enabled": true
         }
       ]
+    },
+    {
+      "id": "signal_ios",
+      "name": "iOS",
+      "description": "iOS signal icons",
+      "author": "Eko",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 33,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ios",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/SignalbarIosOverlay.apk",
+          "fileSize": 17701,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wifi_ios",
+      "name": "iOS",
+      "description": "iOS WiFi icons",
+      "author": "Eko",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 33,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiios",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/WifiIosOverlay.apk",
+          "fileSize": 17129,
+          "enabled": true
+        }
+      ]
     }
   ]
 }
