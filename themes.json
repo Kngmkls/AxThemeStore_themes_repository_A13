@@ -457,7 +457,7 @@
             "signal"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/GradiconSignalOverlay.apk",
-          "fileSize": 115662,
+          "fileSize": 119994,
           "enabled": true
         }
       ]
@@ -1241,7 +1241,7 @@
             "wifi"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/GradiconWiFiOverlay.apk",
-          "fileSize": 45660,
+          "fileSize": 45744,
           "enabled": true
         }
       ]
@@ -1739,7 +1739,7 @@
             "android"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackKaiAndroidOverlay.apk",
-          "fileSize": 104969,
+          "fileSize": 105127,
           "enabled": true
         },
         {
@@ -1749,7 +1749,7 @@
             "systemui"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackKaiSystemUIOverlay.apk",
-          "fileSize": 123930,
+          "fileSize": 132484,
           "enabled": true
         }
       ]
@@ -1891,7 +1891,7 @@
             "android"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackOutlineAndroidOverlay.apk",
-          "fileSize": 145110,
+          "fileSize": 149206,
           "enabled": true
         },
         {
@@ -1967,7 +1967,7 @@
             "android"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackPUIAndroidOverlay.apk",
-          "fileSize": 152486,
+          "fileSize": 156582,
           "enabled": true
         },
         {
@@ -1977,7 +1977,7 @@
             "systemui"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackPUISystemUIOverlay.apk",
-          "fileSize": 166052,
+          "fileSize": 170148,
           "enabled": true
         }
       ]
@@ -2005,7 +2005,7 @@
             "android"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackRoundedAndroidOverlay.apk",
-          "fileSize": 75859,
+          "fileSize": 79955,
           "enabled": true
         },
         {
@@ -2043,7 +2043,7 @@
             "android"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackSamAndroidOverlay.apk",
-          "fileSize": 92147,
+          "fileSize": 96401,
           "enabled": true
         },
         {
@@ -2053,7 +2053,7 @@
             "systemui"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackSamSystemUIOverlay.apk",
-          "fileSize": 109842,
+          "fileSize": 114208,
           "enabled": true
         }
       ]
@@ -2081,7 +2081,7 @@
             "android"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackVictorAndroidOverlay.apk",
-          "fileSize": 92349,
+          "fileSize": 96607,
           "enabled": true
         },
         {
@@ -2091,7 +2091,7 @@
             "systemui"
           ],
           "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackVictorSystemUIOverlay.apk",
-          "fileSize": 120142,
+          "fileSize": 128712,
           "enabled": true
         }
       ]
