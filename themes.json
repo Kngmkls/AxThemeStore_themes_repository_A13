@@ -2191,6 +2191,54 @@
           "enabled": true
         }
       ]
+    },
+    {
+      "id": "iconpack_maktone",
+      "name": "Maktone",
+      "description": "Maktone icon pack",
+      "author": "Eko",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 33,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.maktone.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackMaktoneAndroidOverlay.apk",
+          "fileSize": 464639,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.settings",
+          "packageName": "com.android.theme.icon_pack.maktone.settings",
+          "targets": [
+            "settings"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackMaktoneSettingsOverlay.apk",
+          "fileSize": 729684,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.maktone.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/Kngmkls/AxThemeStore_themes_repository_A13/main/apks/IconPackMaktoneSystemUIOverlay.apk",
+          "fileSize": 810613,
+          "enabled": true
+        }
+      ]
     }
   ]
 }
